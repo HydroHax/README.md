@@ -8,9 +8,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on andriod apps, telegram bots, Web Apps
-- 🌱 I’m currently learning ts, java
+- 🌱 I’m currently learning ts, Kotlin
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with web devlopment
+- 🤔 I’m looking for help with Andriod devlopment
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Python
 
@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 <h2>GitHub Stats <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="22"></h2>
 
-![Huzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeObser&show_icons=true&theme=merko)
+![Huzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HydroHax&show_icons=true&theme=merko)
 
 <h2>Streak <img src="https://emojis.slackmojis.com/emojis/images/1643514841/8541/computercat.gif?1643514841" width="22"></h2>
 
-![image](https://github-readme-streak-stats.herokuapp.com/?user=CodeObser&theme=dark)
+![image](https://github-readme-streak-stats.herokuapp.com/?user=HydroHax&theme=dark)
 
 
 
